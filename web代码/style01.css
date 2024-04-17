@@ -1,0 +1,18 @@
+        *{margin: 0;padding: 0;}
+        body{ background-image: url(../web代码/图片库/bz\ \(5\).webp);}
+        h1{color: rgb(214, 224, 76);}
+        h2{ font:  italic inline-block 200%;}
+        .white{ color: #ecf1f5;}
+        .one{ width: 300px;      height: 200px;}
+        .two{width: auto;height: auto;}
+        h1 strong{ color:rgb(177, 203, 31);
+            font-size: 200px;
+            text-shadow: 20px -20px 5px #2a0fa4,-20px 20px 10px rebeccapurple;
+            font-family: 宋体;}
+        .container{justify-content: space-between; align-items: center;}
+        .text{ float: left;width:50%; }
+        .image{    float: right;    width: 50%;}
+        .tc{text-align: center; padding: 10px;}
+        .it{ display: inline-block; margin: 10%;}
+        ul{list-style-type:decimal; list-style: inside url(../web代码/图片库/xx.jpg);}
+        li{border: 2px solid blue;}
